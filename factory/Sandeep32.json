@@ -1,0 +1,9 @@
+{
+	"name": "Sandeep32",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "64d568b6-ff48-4778-989c-ab892a2698c2",
+		"tenantId": "6c3c7b19-f8f0-428d-aa7b-e9fafeae98aa"
+	}
+}
